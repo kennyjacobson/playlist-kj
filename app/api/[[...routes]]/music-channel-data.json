@@ -1,7 +1,7 @@
 {
     "rock-v1" : {
         "title" : "Welcome to Rock Music channel",
-        "description" : "A collection of favorite songs Vol.1 from the /rock (Rock Music) channel. Enjoy!",
+        "description" : "A collection of favorite songs from the /rock (Rock Music) channel (Vol.1). Enjoy!",
         "playlist" : [
             {
                 "title" : "Talk of the Town",
@@ -26,7 +26,80 @@
                 "url" : "https://youtu.be/pf8D2lAeJGE?si=ZjLZ0uene15Y784Z",
                 "curator" : "@kennyjacobson",
                 "artwork" : "https://upload.wikimedia.org/wikipedia/en/5/5f/Faces-A_Nod_Is_as_Good_as_a_Wink...To_a_Blind_Horse_%28album_cover%29.jpg"
+            },
+            {
+                "title" : "Half Full Glass of Wine",
+                "artist" : "Tame Impala",
+                "album" : "Tame Impala",
+                "url" : "https://youtu.be/zfcHq0hhFWg?si=bVP8bNRpCa78QC-P",
+                "curator" : "@chinaski",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/b/bb/Tame_Impala_EP.JPG"
+            },
+            {
+                "title" : "With a Little Help from My Friends",
+                "artist" : "Joe Cocker",
+                "album" : "With a Little Help from My Friends",
+                "url" : "https://youtu.be/rUVEFkjqiEE?si=b5pnC_5FhXyrXApr",
+                "curator" : "@gdi",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/9/92/Joe_Cocker-With_a_Little_Help_from_My_Friends_%28album_cover%29.jpg"
+            },
+            {
+                "title" : "Devil You Know",
+                "artist" : "The Ghost of a Saber Tooth Tiger",
+                "album" : "Midnight Sun",
+                "url" : "https://youtu.be/gXdiKvUJX4Y?si=DcauQM8KbWE9Nw_c",
+                "curator" : "@viisikanta.eth",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_Sun_%28GOASTT_album%29.jpg"
+            },
+            {
+                "title" : "La luna me sabe a poco",
+                "artist" : "Marea",
+                "album" : "Besos de perro",
+                "url" : "https://youtu.be/4CJwzwOIPAY?si=KzambCm8sIl0ssyT",
+                "curator" : "@anvida",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/b/b0/Besos_de_perro.jpg"
+            },
+            {
+                "title" : "Rosa de los vientos",
+                "artist" : "Los Burros",
+                "album" : "Rebuznos De Amor",
+                "url" : "https://youtu.be/hwWuhdl8HSE?si=Kb9oV9eP5StbX-Qr",
+                "curator" : "@anvida",
+                "artwork" : "https://i.discogs.com/2lVn3KV3zqgtWMx3zRNlS2SmpXYZ72ysZ3PbBi0QyfQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzgx/MjQtMTU3OTk4MjE3/NS02NjIzLmpwZWc.jpeg"
+            },
+            {
+                "title" : "Frío",
+                "artist" : "Alarma!!!",
+                "album" : "En El Lado Oscuro",
+                "url" : "https://youtu.be/3-tZv8X1Cio?si=DC0HHZtzS999p9RK",
+                "curator" : "@anvida",
+                "artwork" : "https://i.discogs.com/Tkr70iYqC4O8MSmXlh-rZB_nhifPQ-AuvntfmAxtdhU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjI1/OTEtMTI5MTgwNDg0/Mi5qcGVn.jpeg"
+            },
+            {
+                "title" : "Boogie King",
+                "artist" : "The Screamin' Cheetah Wheelies",
+                "album" : "Big Wheel",
+                "url" : "https://youtu.be/sXBCmrSK8vQ?si=HOvZo-GRAx1zNCrC",
+                "curator" : "@calisay",
+                "artwork" : "https://i.discogs.com/IKIvrWmL9NEn0FWr4NdnN8gkm6HWqAv7iuBeJbEkiWM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEz/OTEtMTMzOTczMTkx/OC01NzA5LmpwZWc.jpeg"
+            },
+            {
+                "title" : "I Put a Spell on You",
+                "artist" : "Screamin Jay Hawkins",
+                "album" : "I Put a Spell on You",
+                "url" : "https://youtu.be/7kGPhpvqtOc?si=TCRHOnVGY_Xi07c_",
+                "curator" : "@chinaski",
+                "artwork" : "https://i.discogs.com/Q70M6lPsRWbWJvGOBaPSRmEbAXrNumkVDkoIa3CH6q8/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDg3/MjYtMTI4ODkyNDcy/NC5qcGVn.jpeg"
+            },
+            {
+                "title" : "Lola",
+                "artist" : "The Kinks",
+                "album" : "Lola Versus Powerman and the Moneygoround, Part One",
+                "url" : "https://youtu.be/0AcS49UdrIM?si=Ziv6wKAWY2lx6K3Y",
+                "curator" : "@chinaski",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/e/ea/The_kinks_lola_versus_powerman_album.jpg"
             }
+
         ]
     },
     "rock-v2" : {

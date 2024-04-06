@@ -1,0 +1,53 @@
+{
+    "rock-v1" : {
+        "title" : "Welcome to Rock Music channel",
+        "description" : "A collection of favorite songs Vol.1 from the /rock (Rock Music) channel. Enjoy!",
+        "playlist" : [
+            {
+                "title" : "Talk of the Town",
+                "artist" : "The Pretenders",
+                "album" : "Pretenders II",
+                "url" : "https://youtu.be/-Kdt1IARNkI?si=Rv--WaQhcCNHTR-N",
+                "curator" : "@kennyjacobson",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/5/5b/Pretenders_II_%28The_Pretenders_album_-_cover_art%29.jpg"
+            },
+            {
+                "title" : "Hunger Strike",
+                "artist" : "Temple of the Dog",
+                "album" : "Temple of the Dog",
+                "url" : "https://youtu.be/VUb450Alpps?si=6yiIb38MOgI_TkwN",
+                "curator" : "@calisay",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/6/69/TempleOfTheDog.jpg"
+            },
+            {
+                "title" : "Miss Judy's Farm",
+                "artist" : "The Faces",
+                "album" : "A Nod Is as Good as a Wink... to a Blind Horse",
+                "url" : "https://youtu.be/pf8D2lAeJGE?si=ZjLZ0uene15Y784Z",
+                "curator" : "@kennyjacobson",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/5/5f/Faces-A_Nod_Is_as_Good_as_a_Wink...To_a_Blind_Horse_%28album_cover%29.jpg"
+            }
+        ]
+    },
+    "rock-v2" : {
+        "title" : "Rock Music channel Vol.2",
+        "description" : "Rock Music channel Vol.2",
+        "playlist" : [
+            {
+                "title" : "Wanting and Waiting",
+                "artist" : "Black Crowes",
+                "album" : "Happiness Bastards",
+                "url" : "https://youtu.be/rHBu97e--xA?si=zO2Z81_3O7TonmQ8",
+                "curator" : "@calisay",
+                "artwork" : "https://upload.wikimedia.org/wikipedia/en/e/ee/The_Black_Crowes_-_Happiness_Bastards.png"
+            },
+            {
+                "title" : "Red Moon Rising",
+                "artist" : "Robert Jon & The Wreck",
+                "url" : "https://youtu.be/ba-OZKNXcKM?si=N8EoQUjBAo9kZry2",
+                "curator" : "@calisay",
+                "artwork" : "https://lh3.googleusercontent.com/wluJq0rzeTSTw-BtuZTlDiLAgI8JBxohzXA5Jh8gMg4R97Oc3mPb-APD2-AO9LXXA-YXZMhDI1PZnS8"
+            }
+        ]
+    }
+}
